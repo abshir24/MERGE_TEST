@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("Anna's Merge conflict!!!!!!!!!!!!!!")
         print("This is not a merge conflict!!!! By: Rashad :) ")
         print("Kevin was here")
+        print("Ryan likes mangoes")
    
     }
 
