@@ -1,7 +1,7 @@
 // Add comment 
 //  ViewController.swift
 //  Git_Merges
-// Jacinda Eng was here :) 
+// Jacinda Eng was here 
 //  Created by Michael Panitz on 6/19/19.
 //  Copyright © 2019 Michael Panitz. All rights reserved.
 //
