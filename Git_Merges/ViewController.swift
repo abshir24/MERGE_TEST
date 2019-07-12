@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
 
         print("MERGE CONFLICT!!!!!!!!!!!!!!!!!!!!!")
+        print("Anna's Merge conflict!!!!!!!!!!!!!!")
+        print("This is not a merge conflict!!!! By: Rashad :) ")
 
    
     }
